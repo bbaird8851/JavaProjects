@@ -1,0 +1,7 @@
+Reese,John 78 290 Sophomore
+Miller,Brianna 81 401 Masters
+Clark,Kent 55 182 Freshman
+Odinson,Thor 100 500 Doctorate
+Prime,Optimus 1000 2555 Doctorate
+Smith,John 78 300 Junior
+Williams,James 93 415 Junior
